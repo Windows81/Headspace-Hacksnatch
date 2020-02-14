@@ -1,0 +1,19 @@
+{
+  "name": "headspace",
+  "version": "1.0.0",
+  "description": "Helps you snatch whatever file on their servers you want.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Windows81/Headspace-Hacksnatch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Windows81/Headspace-Hacksnatch/issues"
+  },
+  "homepage": "https://github.com/Windows81/Headspace-Hacksnatch#readme"
+}
